@@ -9,7 +9,7 @@ search_enabled: true
 search:
   rel_url: true
   button: true
-baseurl: "/2020.11.16-archw-docs-testing "
+baseurl: "/2020.11.16-archw-docs-testing"
 url: "https://coarchive.github.io"
 aux_links:
   " See GitHub":
