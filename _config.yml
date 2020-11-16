@@ -9,8 +9,8 @@ search_enabled: true
 search:
   rel_url: true
   button: true
-baseurl: "/ArchW-docs"
-url: "https://coalpha.github.io/ArchW-docs"
+baseurl: "/archw-docs"
+url: "https://coalpha.github.io"
 aux_links:
   " See GitHub":
     - "//github.com/wsldl-pg/ArchW-docs"
